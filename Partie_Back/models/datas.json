@@ -1,0 +1,32 @@
+{
+    "1": {
+      "name": "Agence Paris",
+      "Supervisor": " Dupont",
+      "Activity": "Electrique",
+      "objectId": 0
+    },
+    "2": {
+      "name": "Agence Marseille",
+      "Supervisor": " Durand",
+      "Activity": "Electrique",
+      "objectId": 1
+    },
+    "3": {
+      "name": "Agence Nice",
+      "Supervisor": " Jules",
+      "Activity":    "Plomberie",
+      "objectId": 0
+    },
+    "4": {
+      "name": "Agence Lyon",
+      "Supervisor": "Theodore",
+      "Activity": "Climatisation",
+      "objectId": 1
+    },
+    "5": {
+      "name": "Agence Nantes",
+      "Supervisor": " Dupond",
+      "Activity": "Gaz naturel",
+      "objectId": 1
+    }
+}
